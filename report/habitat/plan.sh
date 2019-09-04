@@ -1,4 +1,4 @@
-pkg_name=audit-baseline
+pkg_name=report
 pkg_version=0.1.0
 pkg_origin=cheftv
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
