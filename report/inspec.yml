@@ -1,0 +1,11 @@
+name: roadtrip
+title: Security Baseline
+maintainer: LCR Road Trip Team
+copyright: LCR Road Trip Team
+copyright_email: you@example.com
+license: Apache-2.0
+summary: Effortless Audit Linux Baseline
+version: 0.1.0
+depends:
+- name: linux-baseline
+  compliance: admin/linux-baseline

@@ -1,0 +1,22 @@
+# Use this file to templatize your application's native configuration files.
+# See the docs at https://www.habitat.sh/docs/create-packages-configure/.
+# You can safely delete this file if you don't need it.
+# You must accept the Chef License to use this software: https://www.chef.io/end-user-license-agreement/
+# Change [chef_license] from acceptance = "undefined" to acceptance = "accept-no-persist" if you agree to the license.
+
+interval = 300
+splay = 300
+splay_first_run = 0
+log_level = 'warn'
+report_to_stdout = true
+
+[chef_license]
+acceptance = "accept"
+
+[automate]
+enable = true
+url = 'https://jwolf-a2.chef-demo.com'
+token = 'VjlHjl44g30W_4t4buFsMs4ChFY='
+user = 'admin'
+
+
