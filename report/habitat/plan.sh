@@ -5,6 +5,6 @@ pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=("Apache-2.0")
 pkg_description="Effortless Linux Audit Example"
 pkg_scaffolding="chef/scaffolding-chef-inspec"
-scaffold_automate_server_url='https://jwolf-a2.chef-demo.com'
+scaffold_automate_server_url='https://jwolf-a2.workshops.learn.chef.io'
 scaffold_automate_user='admin'
-scaffold_automate_token='VjlHjl44g30W_4t4buFsMs4ChFY='
+scaffold_automate_token='Jjy1MEcwTw_pycSUWZiJd3RqIOM='
