@@ -11,6 +11,6 @@ ssl_verify_mode = ":verify_none"
 
 [automate]
 enable = true
-server_url = "https://jwolf-a2.chef-demo.com/data-collector/v0/"
-token = "VjlHjl44g30W_4t4buFsMs4ChFY="
+server_url = "https://jwolf-a2.workshops.learn.chef.io/data-collector/v0/"
+token = "Jjy1MEcwTw_pycSUWZiJd3RqIOM="
 
