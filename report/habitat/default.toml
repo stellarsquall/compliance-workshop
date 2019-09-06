@@ -15,8 +15,8 @@ acceptance = "accept"
 
 [automate]
 enable = true
-url = 'https://jwolf-a2.chef-demo.com'
-token = 'VjlHjl44g30W_4t4buFsMs4ChFY='
+url = 'https://jwolf-a2.workshops.learn.chef.io'
+token = 'Jjy1MEcwTw_pycSUWZiJd3RqIOM='
 user = 'admin'
 
 
