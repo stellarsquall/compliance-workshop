@@ -15,8 +15,8 @@ acceptance = "accept"
 
 [automate]
 enable = true
-url = 'https://jwolf-a2.workshops.learn.chef.io'
-token = 'Jjy1MEcwTw_pycSUWZiJd3RqIOM='
+url = 'https://roadtrip.workshops.learn.chef.io'
+token = '_fRWgRmieD-9uO8Z5bXHbbt8fF0='
 user = 'admin'
 
 
