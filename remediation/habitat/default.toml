@@ -11,6 +11,6 @@ ssl_verify_mode = ":verify_none"
 
 [automate]
 enable = true
-server_url = "https://roadtrip.workshops.learn.chef.io/data-collector/v0/"
-token = "_fRWgRmieD-9uO8Z5bXHbbt8fF0="
+server_url = "https://roadtrip-austin.workshops.learn.chef.io/data-collector/v0/"
+token = "vpRBp-ksr8nz8tgxIqRZ6XAhgtM="
 
