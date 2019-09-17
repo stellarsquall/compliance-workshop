@@ -11,7 +11,7 @@ log_level = 'warn'
 report_to_stdout = true
 
 [chef_license]
-acceptance = "accept"
+acceptance = "accept-no-persist"
 
 [automate]
 enable = true
