@@ -15,8 +15,8 @@ acceptance = "accept-no-persist"
 
 [automate]
 enable = true
-url = 'https://roadtrip-austin.workshops.learn.chef.io'
-token = 'vpRBp-ksr8nz8tgxIqRZ6XAhgtM='
-user = 'admin'
+url = '<AUTOMATE_URL>'
+token = '<TOKEN>'
+user = '<USERNAME>'
 
 
